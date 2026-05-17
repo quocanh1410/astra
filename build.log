@@ -1,0 +1,232 @@
+nohup: ignoring input
+Loading GSM8K...
+Building dataset (100 samples)...
+
+[1/100] Natalia sold clips to 48 of her friends in April, and t
+  SLM pred=72 | answer=72 ✅ → label=1
+[2/100] Weng earns $12 an hour for babysitting. Yesterday, she 
+  SLM pred=72 | answer=10 ❌ → label=0
+[3/100] Betty is saving money for a new wallet which costs $100
+  SLM pred=20 | answer=5 ❌ → label=0
+[4/100] Julie is reading a 120-page book. Yesterday, she was ab
+  SLM pred=42 | answer=42 ✅ → label=1
+[5/100] James writes a 3-page letter to 2 different friends twi
+  SLM pred=1288 | answer=624 ❌ → label=0
+[6/100] Mark has a garden with flowers. He planted plants of th
+  SLM pred=38 | answer=35 ❌ → label=0
+[7/100] Albert is wondering how much pizza he can eat in one da
+  SLM pred=32 | answer=48 ❌ → label=0
+[8/100] Ken created a care package to send to his brother, who 
+  SLM pred=4 | answer=16 ❌ → label=0
+[9/100] Alexis is applying for a new job and bought a new set o
+  SLM pred=77 | answer=41 ❌ → label=0
+[10/100] Tina makes $18.00 an hour.  If she works more than 8 ho
+  SLM pred=5 | answer=990 ❌ → label=0
+  💾 Checkpoint: 10 samples (label1=2, label0=8)
+
+[11/100] A deep-sea monster rises from the waters once every hun
+  SLM pred=847 | answer=121 ❌ → label=0
+[12/100] Tobias is buying a new pair of shoes that costs $95. He
+  SLM pred=3 | answer=5 ❌ → label=0
+[13/100] Randy has 60 mango trees on his farm. He also has 5 les
+  SLM pred=85 | answer=85 ✅ → label=1
+[14/100] Jasper will serve charcuterie at his dinner party. He b
+  SLM pred=35 | answer=35 ✅ → label=1
+[15/100] Joy can read 8 pages of a book in 20 minutes. How many 
+  SLM pred=20 | answer=5 ❌ → label=0
+[16/100] James creates a media empire.  He creates a movie for $
+  SLM pred=20 | answer=448000 ❌ → label=0
+[17/100] The profit from a business transaction is shared among 
+  SLM pred=3750 | answer=800 ❌ → label=0
+[18/100] In a truck, there are 26 pink hard hats, 15 green hard 
+  SLM pred=62. | answer=43 ❌ → label=0
+[19/100] It takes Roque two hours to walk to work and one hour t
+  SLM pred=8 | answer=16 ❌ → label=0
+[20/100] Tim rides his bike back and forth to work for each of h
+  SLM pred=200 | answer=16 ❌ → label=0
+  💾 Checkpoint: 20 samples (label1=4, label0=16)
+
+[21/100] Bella bought stamps at the post office. Some of the sta
+  SLM pred=38 | answer=38 ✅ → label=1
+[22/100] Each bird eats 12 beetles per day, each snake eats 3 bi
+  SLM pred=1080 | answer=1080 ✅ → label=1
+[23/100] Samantha’s last name has three fewer letters than Bobbi
+  SLM pred=3 | answer=7 ❌ → label=0
+[24/100] Ann's favorite store was having a summer clearance. For
+  SLM pred=20. | answer=5 ❌ → label=0
+[25/100] Mary does her grocery shopping on Saturday. She does he
+  SLM pred=62 | answer=62 ✅ → label=1
+[26/100] Ralph is going to practice playing tennis with a tennis
+  SLM pred=65 | answer=110 ❌ → label=0
+[27/100] Jack is stranded on a desert island. He wants some salt
+  SLM pred=100 | answer=400 ❌ → label=0
+[28/100] Brennan was researching his school project and had to d
+  SLM pred=240 | answer=400 ❌ → label=0
+[29/100] There are 5 houses on a street, and each of the first f
+  SLM pred=8 | answer=8 ✅ → label=1
+[30/100] Mrs. Snyder used to spend 40% of her monthly income on 
+  SLM pred=0. | answer=1000 ❌ → label=0
+  💾 Checkpoint: 30 samples (label1=8, label0=22)
+
+[31/100] Ann, Bill, Cate, and Dale each buy personal pan pizzas 
+  SLM pred=6 | answer=6 ✅ → label=1
+[32/100] Noah is a painter. He paints pictures and sells them at
+  SLM pred=1200. | answer=1200 ❌ → label=0
+[33/100] A car is driving through a tunnel with many turns. Afte
+  SLM pred=21 | answer=10 ❌ → label=0
+[34/100] To make pizza, together with other ingredients, Kimber 
+  SLM pred=44 | answer=34 ❌ → label=0
+[35/100] Mr. Sam shared a certain amount of money between his tw
+  SLM pred=5250. | answer=5250 ❌ → label=0
+[36/100] Mr. Sanchez found out that 40% of his Grade 5  students
+  SLM pred=5 | answer=36 ❌ → label=0
+[37/100] Lisa, Jack, and Tommy earned $60 from washing cars all 
+  SLM pred=30 | answer=15 ❌ → label=0
+[38/100] Five friends eat at a fast-food chain and order the fol
+  SLM pred=7 | answer=5 ❌ → label=0
+[39/100] Artemis is making tea for a party. She knows her mom dr
+  SLM pred=9 | answer=9 ✅ → label=1
+[40/100] Anna goes trick-or-treating in a subdivision where she 
+  SLM pred=5 | answer=15 ❌ → label=0
+  💾 Checkpoint: 40 samples (label1=10, label0=30)
+
+[41/100] A concert ticket costs $40. Mr. Benson bought 12 ticket
+  SLM pred=95 | answer=476 ❌ → label=0
+[42/100] Rachel and Sara want to attend a beauty and modeling co
+  SLM pred=100. | answer=500 ❌ → label=0
+[43/100] A family of 12 monkeys collected 10 piles of bananas. 6
+  SLM pred=99 | answer=99 ✅ → label=1
+[44/100] An earthquake caused four buildings to collapse. Expert
+  SLM pred=8 | answer=60 ❌ → label=0
+[45/100] James is a first-year student at a University in Chicag
+  SLM pred=400 | answer=300 ❌ → label=0
+[46/100] It's Ava's birthday party. Her parents bought a unicorn
+  SLM pred=94. | answer=99 ❌ → label=0
+[47/100] Carolyn practices the piano for 20 minutes a day and th
+  SLM pred=1440 | answer=1920 ❌ → label=0
+[48/100] The file, 90 megabytes in size, downloads at the rate o
+  SLM pred=30 | answer=15 ❌ → label=0
+[49/100] Sam memorized six more digits of pi than Carlos memoriz
+  SLM pred=10 | answer=10 ✅ → label=1
+[50/100] On a school trip to the seashore, Alan and his friends 
+  SLM pred=48 | answer=48 ✅ → label=1
+  💾 Checkpoint: 50 samples (label1=13, label0=37)
+
+[51/100] Gerald spends $100 a month on baseball supplies. His se
+  SLM pred=3 | answer=5 ❌ → label=0
+[52/100] Ann is cutting fabric to make curtains. She cuts a 4 fo
+  SLM pred=160 | answer=160 ✅ → label=1
+[53/100] Arnel had ten boxes of pencils with the same number of 
+  SLM pred=390 | answer=5 ❌ → label=0
+[54/100] Caleb bought 10 cartons of ice cream and 4 cartons of f
+  SLM pred=36 | answer=36 ✅ → label=1
+[55/100] Leah earned $28 working odd jobs around the neighborhoo
+  SLM pred=22 | answer=11 ❌ → label=0
+[56/100] There are 25 roses in a garden. There are 40 tulips. Th
+  SLM pred=63.75 | answer=75 ❌ → label=0
+[57/100] Leo's assignment was divided into three parts. He finis
+  SLM pred=140 | answer=45 ❌ → label=0
+[58/100] Liza bought 10 kilograms of butter to make cookies. She
+  SLM pred=2 | answer=2 ✅ → label=1
+[59/100] A Statistics student wants to find out the average dail
+  SLM pred=320 | answer=320 ✅ → label=1
+[60/100] Every hour Joanne has to collect the coins out of the f
+  SLM pred=120 | answer=120 ✅ → label=1
+  💾 Checkpoint: 60 samples (label1=18, label0=42)
+
+[61/100] Jerry’s two daughters play softball on different teams.
+  SLM pred=32 | answer=96 ❌ → label=0
+[62/100] A bear is preparing to hibernate for the winter and nee
+  SLM pred=400 | answer=200 ❌ → label=0
+[63/100] There are 290 liters of oil in 24 cans. If 10 of the ca
+  SLM pred=210 | answer=15 ❌ → label=0
+[64/100] Shawna's workout goal is 30 situps. On Monday, Shawna w
+  SLM pred=37 | answer=59 ❌ → label=0
+[65/100] James earns $20 an hour while working at his main job. 
+  SLM pred=840 | answer=840 ✅ → label=1
+[66/100] Lee mows one lawn and charges $33. Last week he mowed 1
+  SLM pred=558 | answer=558 ✅ → label=1
+[67/100] Tara has been planning to buy a laptop which costs $100
+  SLM pred=780. | answer=520 ❌ → label=0
+[68/100] Jesse and Mia are competing in a week long race. They h
+  SLM pred=3 | answer=6 ❌ → label=0
+[69/100] The ratio of coins that Elsa has to that which Amalie h
+  SLM pred=110 | answer=90 ❌ → label=0
+[70/100] Carly collected 7 starfish with 5 arms each and one sea
+  SLM pred=49 | answer=49 ✅ → label=1
+  💾 Checkpoint: 70 samples (label1=21, label0=49)
+
+[71/100] Tim has 30 less apples than Martha, and Harry has half 
+  SLM pred=19 | answer=19 ✅ → label=1
+[72/100] At a flea market, Hillary sells handmade crafts for 12 
+  SLM pred=25 | answer=25 ✅ → label=1
+[73/100] Nancy is filling an aquarium for her fish. She fills it
+  SLM pred=36 | answer=54 ❌ → label=0
+[74/100] It is Roger’s turn to provide a snack for the baseball 
+  SLM pred=3 | answer=3 ✅ → label=1
+[75/100] Four people lost a total of 103 kilograms of weight. Th
+  SLM pred=28 | answer=28 ✅ → label=1
+[76/100] Dale and Andrew had breakfast at a cafe. A slice of toa
+  SLM pred=8. | answer=15 ❌ → label=0
+[77/100] A garden produced 237 potatoes, 60 fewer cucumbers and 
+  SLM pred=768. | answer=768 ❌ → label=0
+[78/100] A boxer weighs 97 kg at 4 months from a fight. He is on
+  SLM pred=79 | answer=85 ❌ → label=0
+[79/100] Manny had 3 birthday cookie pies to share with his 24 c
+  SLM pred=5.4 | answer=4 ❌ → label=0
+[80/100] James spends 40 years teaching.  His partner has been t
+  SLM pred=70 | answer=70 ✅ → label=1
+  💾 Checkpoint: 80 samples (label1=26, label0=54)
+
+[81/100] Jennifer purchased 40 cans of milk at the store before 
+  SLM pred=24 | answer=100 ❌ → label=0
+[82/100] Sam and Jeff had a skipping competition at recess. The 
+  SLM pred=216 | answer=14 ❌ → label=0
+[83/100] Irene earns $500 if she works for 40 hours a week and g
+  SLM pred=125 | answer=700 ❌ → label=0
+[84/100] Paityn has 20 red hats and 24 blue hats. Her friend Zol
+  SLM pred=58 | answer=54 ❌ → label=0
+[85/100] Hans booked a room in a hotel. The hotel has 10 floors 
+  SLM pred=8 | answer=90 ❌ → label=0
+[86/100] Four classmates were comparing their ages based on thei
+  SLM pred=0 | answer=5 ❌ → label=0
+[87/100] Peter goes to the store to buy a soda. The soda costs $
+  SLM pred=1.75 | answer=6 ❌ → label=0
+[88/100] John's cow weighs 400 pounds.  It increased its weight 
+  SLM pred=1400. | answer=600 ❌ → label=0
+[89/100] Brandon sold 86 geckos last year. He sold twice that ma
+  SLM pred=258 | answer=258 ✅ → label=1
+[90/100] Krystian works in the library. He borrows an average of
+  SLM pred=152 | answer=216 ❌ → label=0
+  💾 Checkpoint: 90 samples (label1=27, label0=63)
+
+[91/100] Herman likes to feed the birds in December, January and
+  SLM pred=5 | answer=90 ❌ → label=0
+[92/100] John works a job that offers performance bonuses.  He m
+  SLM pred=12.50 | answer=10 ❌ → label=0
+[93/100] Sally and Bob have made plans to go on a trip at the en
+  SLM pred=3720 | answer=1825 ❌ → label=0
+[94/100] John orders food for a massive restaurant.  He orders 1
+  SLM pred=000. | answer=14000 ❌ → label=0
+[95/100] John writes 20 pages a day.  How long will it take him 
+  SLM pred=400 | answer=60 ❌ → label=0
+[96/100] Alice has 20 quarters. She wants to exchange them for n
+  SLM pred=4 | answer=64 ❌ → label=0
+[97/100] James has a rainwater collection barrel.  For each inch
+  SLM pred=126 | answer=126 ✅ → label=1
+[98/100] Nancy, the librarian, is shelving books from the cart. 
+  SLM pred=35 | answer=46 ❌ → label=0
+[99/100] Hector purchased a container of gumballs.  He gave 4 to
+  SLM pred=43. | answer=45 ❌ → label=0
+[100/100] Gail has two fish tanks. The first tank is twice the si
+  SLM pred=19 | answer=3 ❌ → label=0
+  💾 Checkpoint: 100 samples (label1=28, label0=72)
+
+
+==================================================
+✅ DONE
+   Saved  : 100 samples
+   Error  : 0
+   Label 1: 28 (28.0%) SLM đúng
+   Label 0: 72 (72.0%) SLM sai
+==================================================
