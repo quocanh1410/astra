@@ -1,0 +1,36 @@
+nohup: ignoring input
+Loading GSM8K test set...
+Evaluating 10 questions...
+
+[1/10] Janet’s ducks lay 16 eggs per day. She eats three for b
+  answer=18 | LLM=WRONG | SLM=WRONG | HERA=WRONG (→LLM p=0.14)
+[2/10] A robe takes 2 bolts of blue fiber and half that much w
+  answer=3 | LLM=WRONG | SLM=WRONG | HERA=WRONG (→SLM p=0.51)
+[3/10] Josh decides to try flipping a house.  He buys a house 
+  answer=70000 | LLM=WRONG | SLM=WRONG | HERA=WRONG (→LLM p=0.22)
+[4/10] James decides to run 3 sprints 3 times a week.  He runs
+  answer=540 | LLM=OK | SLM=WRONG | HERA=OK (→LLM p=0.41)
+[5/10] Every day, Wendi feeds each of her chickens three cups 
+  answer=20 | LLM=WRONG | SLM=WRONG | HERA=WRONG (→LLM p=0.28)
+[6/10] Kylar went to the store to buy glasses for his new apar
+  answer=64 | LLM=WRONG | SLM=WRONG | HERA=WRONG (→LLM p=0.20)
+[7/10] Toulouse has twice as many sheep as Charleston. Charles
+  answer=260 | LLM=WRONG | SLM=WRONG | HERA=WRONG (→LLM p=0.32)
+[8/10] Carla is downloading a 200 GB file. Normally she can do
+  answer=160 | LLM=WRONG | SLM=OK | HERA=OK (→SLM p=0.53)
+[9/10] John drives for 3 hours at a speed of 60 mph and then t
+  answer=45 | LLM=WRONG | SLM=WRONG | HERA=WRONG (→LLM p=0.26)
+[10/10] Eliza's rate per hour for the first 40 hours she works 
+  answer=460 | LLM=WRONG | SLM=WRONG | HERA=WRONG (→LLM p=0.07)
+  Checkpoint saved
+
+
+==================================================
+EVALUATION RESULTS (10 questions)
+==================================================
+Full LLM accuracy  : 10.0%
+Full SLM accuracy  : 10.0%
+HERA accuracy      : 20.0%
+HERA SLM usage     : 20.0% (tiết kiệm LLM)
+Accuracy drop      : -10.0%
+==================================================

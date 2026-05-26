@@ -1,5 +1,5 @@
 
-# train.py
+# # train.py
 import json
 import pickle
 import numpy as np
@@ -66,3 +66,7 @@ while True:
         print("  → Route to SLM (câu đơn giản)")
     else:
         print("  → Route to LLM (câu phức tạp)")
+
+
+
+
